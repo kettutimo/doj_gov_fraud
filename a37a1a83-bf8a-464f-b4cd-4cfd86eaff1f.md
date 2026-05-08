@@ -1,0 +1,71 @@
+# a37a1a83-bf8a-464f-b4cd-4cfd86eaff1f
+
+## attachment
+
+
+
+## body
+
+Scripps Health (Scripps), a health care system based in San Diego, California, has agreed to pay $1.5 million to resolve allegations that it violated the False Claims Act by charging federal health care programs for physical therapy services that were rendered by therapists who did not have billing privileges for these programs and were not supervised by an authorized provider, the Justice Department announced today. “Federal health care programs require that services are rendered by authorized providers or under the appropriate supervision of an enrolled physician,” said Acting Assistant Attorney General for the Justice Department’s Civil Division Chad A. Readler. “These requirements help protect patients from unscrupulous or unqualified medical professionals. The Department of Justice will continue to ensure that those who knowingly violate these requirements face appropriate consequences.” Medicare and TRICARE limit billing privileges to enrolled providers. Services from unenrolled providers can be billed as “incident to” the services of an enrolled physician, but only if the physician provided direct supervision. The United States alleged that Scripps billed Medicare and TRICARE for physical therapy services provided by therapists without billing privileges and without the appropriate supervision by a physician. “This settlement illustrates the United States Attorney’s Office’s continued commitment to protecting the integrity of the Medicare and TRICARE programs,” said U.S. Attorney Adam L. Braverman. “Unlawfully obtained payment from taxpayer-funded programs harms the entire health care system. We will hold accountable all providers who defraud these programs.” “Patients rightly expect qualified medical providers, or at least professionals working under the supervision of authorized providers,” said Christian J. Schrank, Special Agent in Charge for the Office of Inspector General of the U.S. Department of Health and Human Services. “As charged, these billing practices cheat patients, taxpayers, and the Medicare program.” The settlement resolves allegations filed in a lawsuit by Suzanne Forrest, a former Scripps employee, under the*qui tam*provisions of the False Claims Act, which permit private individuals to sue for false claims on behalf of the government and to share in any recovery. The civil lawsuit was filed in the Southern District of California and is captioned*United States ex rel. Forrest v. Scripps Health*, Case No. 16-CV-0634. As part of this settlement, Ms. Forrest will receive $225,000. “Holding providers accountable protects patients and tax-payer funded health care programs,” said Eric S. Birnbaum, FBI Special Agent in Charge of the San Diego Field Office. “The FBI will continue to work jointly with its law enforcement partners, utilizing all tools available, to pursue the repayment of monies to federal health care programs such as Medicare and TRICARE.” "I appreciate the Department of Justice and the U.S. Attorney for its untiring efforts in holding health care providers accountable to the American taxpayer and our patients," said Vice Admiral Raquel Bono, director of the Defense Health Agency. "The Department of Justice's efforts continue to safeguard the health care benefit for American service members, veterans and their families. The Defense Health Agency continues to work closely with the Justice Department and other state and federal agencies to investigate all those who participated in fraudulent practices." The government’s resolution of this matter illustrates the government’s emphasis on combating health care fraud. One of the most powerful tools in this effort is the False Claims Act. Tips and complaints from all sources about potential fraud, waste, abuse, and mismanagement can be reported to the Department of Health and Human Services at 800-HHS-TIPS (800-447-8477). This matter was investigated by the Civil Division’s Commercial Litigation Branch, the U.S. Attorney’s Office for the Southern District of California, the Office of Inspector General for the U.S. Department of Health and Human Services, the Federal Bureau of Investigation,the Defense Criminal Investigative Service, and the Defense Health Agency Program Integrity Office. The claims resolved by this settlement are allegations only and there has been no determination of liability.
+
+## changed
+
+2025-02-05T18:12:31-05:00
+
+## component
+
+- 
+  - **uuid:**
+    dbbe4f45-4e70-4db6-88ec-c35012cac37d
+  - **name:**
+    Civil Division
+- 
+  - **uuid:**
+    fdad26ae-a50e-41f0-90c6-0e0f10c69b9c
+  - **name:**
+    USAO - California, Southern
+
+## created
+
+2018-01-19T16:52:51-05:00
+
+## date
+
+2018-01-19T12:00:00Z
+
+## image
+
+
+
+## number
+
+18-67
+
+## teaser
+
+Scripps Health (Scripps), a health care system based in San Diego, California, has agreed to pay $1.5 million to resolve allegations.
+
+## title
+
+Scripps Health to Pay $1.5 Million to Settle Claims for Services Rendered by Unauthorized Physical Therapists
+
+## topic
+
+- 
+  - **uuid:**
+    87816596-1bad-44b8-b138-df98755a6895
+  - **name:**
+    False Claims Act
+- 
+  - **uuid:**
+    cce5d791-6b0b-462d-9a42-768179164d43
+  - **name:**
+    Healthcare Fraud
+
+## url
+
+https://www.justice.gov/archives/opa/pr/scripps-health-pay-15-million-settle-claims-services-rendered-unauthorized-physical
+
+## uuid
+
+a37a1a83-bf8a-464f-b4cd-4cfd86eaff1f

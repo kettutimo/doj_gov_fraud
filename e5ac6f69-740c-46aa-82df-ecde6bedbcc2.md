@@ -1,0 +1,66 @@
+# e5ac6f69-740c-46aa-82df-ecde6bedbcc2
+
+## attachment
+
+
+
+## body
+
+The United States Attorney's Office for the District of South Dakota and Internal Revenue Service-Criminal Investigations (IRS-CI), St. Louis Field Office, are warning taxpayers to be on the lookout for scam artists trying to use the COVID-19 economic impact payments as cover for schemes to steal personal information and money. Ron Parsons, U.S. Attorney for the District of South Dakota, and Karl A. Stiften, Special Agent in Charge, Internal Revenue Service, Criminal Investigation (IRS-CI), St. Louis Field Office, made the announcement today in an effort to prevent taxpayers from falling victim to criminals using the recently approved economic impact payments as an opportunity to commit a crime. Automatic COVID-19 economic impact payments started being deposited into taxpayers’ accounts on April 11. For most Americans, this will be a direct deposit into your bank account. For the unbanked, retirees or other groups who have traditionally received tax refunds via paper check, they will receive their economic impact payment in this manner as well. Scammers may try to get you to sign over your check to them or use this as an opportunity to get you to “verify” your filing information in order to receive your money, and then use your personal information at a later date to file false tax returns in an identity theft scheme. Because of this, everyone receiving a COVID-19 related economic impact payment from the government is at risk. Karl A. Stiften, Special Agent in Charge of the IRS-CI St. Louis Field Office warned “The existence of a deadly national pandemic will not stop criminals seeking to capitalize on the fears and difficulties faced by the public as they try to line their own pockets by stealing your money or your personal information.” “All of us need to vigilant in these times to protect ourselves and our loved ones from being defrauded,” said U.S. Attorney Parsons. “You should report any suspicious activity to federal law enforcement immediately. If you think you are a victim of a scam or attempted fraud involving COVID-19 or stimulus relief, you can contact the National Center for Disaster Fraud Hotline at 866-720-5721 or via email atmailto:disaster@leo.gov.” Special Agent in Charge Stiften offers the following information and tips to spot a scam and understand how the COVID-19 related economic impact payments will be issued. - The IRS will deposit your check into the direct deposit account you previously provided on your tax return (or, in the alternative, send you a paper check). - The IRS will not call and ask you to verify your payment details. Do not give out your bank account or any other account information - even if someone claims it's necessary to get your check.**It's a scam**. - If you receive a call, don't engage with scammers or thieves, even if you want to tell them that you know it's a scam, or you think that you can beat them.**Just hang up**. - If you receive texts or emails claiming that you can get your money faster by sending personal information or clicking on links, delete them. Don't click on any links in those emails or texts. - Reports are also swirling about bogus checks. If you receive a check that requires that you verify the check online or by calling a number, it’s a fraud. In these uncertain and trying times, we need to stand together united with purpose. Don’t become a victim by allowing criminals to exploit your emotions. Stay strong, tell your family, friends and neighbors about these scams. "IRS Criminal Investigation alongside the U.S. Department of Justice are prioritizing these types of investigations to help protect taxpayers and the tax system, especially those looking to prey on vulnerable taxpayers,” said Special Agent in Charge Stiften.**“Remember, go directly and solely to IRS.gov for official information.”** For more information, visit the IRS website athttp://www.irs.gov/coronavirus. You can always report scams to the IRS on the website athttps://www.irs.gov/privacy-disclosure/report-phishing
+
+## changed
+
+2020-04-17T18:27:53-04:00
+
+## component
+
+- 
+  - **uuid:**
+    56f88d82-8607-40d7-8066-149221fe4178
+  - **name:**
+    USAO - South Dakota
+
+## created
+
+2020-04-17T18:25:52-04:00
+
+## date
+
+2020-04-17T12:00:00Z
+
+## image
+
+
+
+## number
+
+
+
+## teaser
+
+
+
+## title
+
+U.S. Attorney for the District of South Dakota and IRS-CI Warn Taxpayers Against Fraud Schemes Related to COVID-19 Economic Impact Payments
+
+## topic
+
+- 
+  - **uuid:**
+    6827a162-b783-4ffa-a6c2-596fc9f07e39
+  - **name:**
+    COVID-Related Fraud
+- 
+  - **uuid:**
+    f095f7a4-e602-4206-a249-56971083cb48
+  - **name:**
+    Community Outreach
+
+## url
+
+https://www.justice.gov/usao-sd/pr/us-attorney-district-south-dakota-and-irs-ci-warn-taxpayers-against-fraud-schemes-related
+
+## uuid
+
+e5ac6f69-740c-46aa-82df-ecde6bedbcc2

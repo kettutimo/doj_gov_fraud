@@ -1,0 +1,71 @@
+# ab88ff7d-b1ed-4ec9-8d0f-ef8a08ee30f3
+
+## attachment
+
+
+
+## body
+
+A Florida man was sentenced today to 15 years in prison for his role in a wide-ranging conspiracy to defraud Medicare by billing over $67 million for medically unnecessary genetic testing. According to court documents and evidence presented at trial, Jose Goyos, 38, of West Palm Beach, was employed at a call center that engaged in deceptive telemarketing calls targeting thousands of Medicare beneficiaries and their physicians. Goyos managed the so-called “doctor chase” division of the call center, which contacted the primary care physicians of targeted Medicare beneficiaries and tricked these medical providers into ordering medically unnecessary genetic tests based on medical paperwork that the call center created. For example, Goyos directed call center employees to falsely represent to providers that the Medicare beneficiaries were “mutual patients” who had requested these genetic tests and that the beneficiaries had medical conditions justifying genetic testing, when neither statement was true. Goyos and his co-conspirators then used those doctors’ orders to submit claims to Medicare for expensive and medically unnecessary genetic tests. The results of these tests often were not sent to the Medicare beneficiaries’ primary care physicians and were not used in the treatment of the beneficiaries. In total, between May 2020 and July 2021, Goyos and his co-conspirators submitted over $67 million in false and fraudulent claims to Medicare, of which Medicare paid over $53 million. In October 2023,https://www.justice.gov/opa/pr/man-convicted-67m-doctor-chase-genetic-testing-fraud-schemeGoyos of conspiracy to commit wire fraud and conspiracy to commit money laundering. Nine additional Florida residents were previously sentenced for their roles in the conspiracy: - Daniel M. Carver, 38, of Boca Raton, was sentenced to 16 years and eight months in prison. - Thomas Dougherty, 42, of Palm Beach, was sentenced to 14 years in prison. - John Paul Gosney Jr., 42, of Parkland, was sentenced to seven years and 11 months in prison. - Galina Rozenberg, 42, of Hollywood, was sentenced to four years in prison. - Michael Rozenberg, 61, of Hollywood, was sentenced to four years in prison. - Ethan Macier, 25, of Boynton Beach, was sentenced to three years and nine months in prison. - Louis “Gino” Carver, 33, of Boca Raton, was sentenced to two years and eight months in prison. - Ashley Cigarroa, 32, of North Lauderdale, was sentenced to two years and six months in prison. - Timothy Richardson, 31, of Lantana, was sentenced to two years in prison.Principal Deputy Assistant Attorney General Nicole M. Argentieri, head of the Justice Department’s Criminal Division; U.S. Attorney Markenzy Lapointe for the Southern District of Florida; Special Agent in Charge Jeffrey B. Veltri of the FBI Miami Field Office; and Special Agent in Charge Stephen Mahmood of the Department of Health and Human Services Office of the Inspector General (HHS-OIG) Miami Regional Office made the announcement. The FBI and HHS-OIG investigated the case. Trial Attorneys Reginald Cuyler Jr. and Andrew Tamayo, along with former Trial Attorney Patrick J. Queenan, of the Criminal Division’s Fraud Section prosecuted the case. Assistant U.S. Attorneys Sara Klco, Marx Calderon, and Sandra Dermici for the Southern District of Florida are handling asset forfeiture. The Fraud Section leads the Criminal Division’s efforts to combat health care fraud through the Health Care Fraud Strike Force Program. Since March 2007, this program, currently comprised of nine strike forces operating in 27 federal districts, has charged more than 5,400 defendants who collectively have billed federal health care programs and private insurers more than $27 billion. HHS-OIG and the Centers for Medicare & Medicaid Services work collaboratively as Strike Force partners to hold providers accountable for their involvement in health care fraud schemes. More information can be found athttps://www.justice.gov/criminal-fraud/health-care-fraud-unit.
+
+## changed
+
+2025-02-06T15:07:51-05:00
+
+## component
+
+- 
+  - **uuid:**
+    46370d9f-afee-4408-a29b-48812154bc0c
+  - **name:**
+    Criminal Division
+- 
+  - **uuid:**
+    a618801c-2b1e-4ce0-b47e-4db0bce55ac2
+  - **name:**
+    Criminal - Criminal Fraud Section
+
+## created
+
+2024-12-06T17:16:54-05:00
+
+## date
+
+2024-12-06T12:00:00Z
+
+## image
+
+
+
+## number
+
+24-1528
+
+## teaser
+
+A Florida man was sentenced today to 15 years in prison for his role in a wide-ranging conspiracy to defraud Medicare by billing over $67 million for medically unnecessary genetic testing.
+
+## title
+
+Telemarketer Sentenced for $67M Health Care Fraud and Money Laundering Scheme
+
+## topic
+
+- 
+  - **uuid:**
+    77a2d846-a826-49db-a31a-c5db747e9ad3
+  - **name:**
+    Financial Fraud
+- 
+  - **uuid:**
+    cce5d791-6b0b-462d-9a42-768179164d43
+  - **name:**
+    Healthcare Fraud
+
+## url
+
+https://www.justice.gov/archives/opa/pr/telemarketer-sentenced-67m-health-care-fraud-and-money-laundering-scheme
+
+## uuid
+
+ab88ff7d-b1ed-4ec9-8d0f-ef8a08ee30f3
